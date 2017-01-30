@@ -1,5 +1,7 @@
 # Ember-button-modal-confirm
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/martinic/ember-button-modal-confirm.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
